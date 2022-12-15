@@ -41,7 +41,7 @@ main{
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   overflow-y: auto;
   background-color: lightcyan;
@@ -80,7 +80,6 @@ ul li:before{
   width: 2.5rem;
   width: 48px;
   min-width: 48px;
-  height: 2.5rem;
   height: 2.5rem;
   min-height: 48px;
   cursor: pointer;
