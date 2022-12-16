@@ -14,4 +14,4 @@ const ItemList = ({items, handleCheck, handleDelete}) => {
   )
 }
 
-export default ItemList
+export default ItemList;
